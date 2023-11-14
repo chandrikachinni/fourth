@@ -1,0 +1,11 @@
+
+# f=open('abc.txt','r')
+# print(f.tell())
+# f.seek(3)
+# print(f.tell())
+# print(f.read(2))
+# f.seek(10)
+# print(f.read())
+# print(f.tell())
+# f.seek(0)
+# print(f.read())
